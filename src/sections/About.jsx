@@ -63,11 +63,7 @@ export const About = () => {
                 regularly practice building responsive web applications using
                 React, JavaScript, and Tailwind CSS. I have developed multiple
                 academic and personal projects to strengthen my practical
-                knowledge in modern web development and UI/UX design. Currently,
-                I am expanding my skills in advanced frontend technologies and
-                actively seeking internship opportunities in Frontend
-                Development and UI/UX Design to gain real-world experience and
-                grow professionally.
+                knowledge in modern web development and UI/UX design.
               </p>
               
             </div>
