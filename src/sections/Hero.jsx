@@ -24,6 +24,7 @@ const skills = [
 
 export const Hero = () => {
   const { displayedText, cursorVisible } = useTypeWriter([
+    "Wordpress Developer",
     "Frontend Developer",
     "UI/UX Enthusiast",
   ]);
