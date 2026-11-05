@@ -66,6 +66,6 @@ npm run preview
 
 **Demo**
 
-Live demo: [https://mohanbahadursaud.github.io/Portfolio/]([(https://portfolio-mohan-sauds-projects.vercel.app/)])
+Live demo: [https://portfolio-mohan-sauds-projects.vercel.app/]([(https://portfolio-mohan-sauds-projects.vercel.app/)])
 
 Enjoy! 👋
