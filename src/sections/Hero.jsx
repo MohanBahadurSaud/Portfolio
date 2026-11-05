@@ -92,7 +92,7 @@ export const Hero = () => {
                 </h1>
               </div>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                A passionate Frontend Developer & UI/UX Designer focused on building modern, responsive, and user-friendly web applications using React, JavaScript, and Tailwind CSS. I love designing clean UI, enhancing user experience, and turning ideas into real-world digital products.
+                I’m a WordPress Developer who loves turning creative ideas into modern, responsive, and engaging websites. With hands-on experience in WordPress, Elementor, Divi 5, PHP, and frontend technologies, I focus on building functional websites with clean designs and seamless user experiences.
               </p>
             </div>
 
